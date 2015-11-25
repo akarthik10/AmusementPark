@@ -10,9 +10,9 @@ The following options are supported:
 •	Change background of SkyBox.
 
 ##Screenshots:
-[![1](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/1.png)]
-[![2](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/2.png)]
-[![3](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/3.png)]
-[![4](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/4.png)]
-[![5](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/5.png)]
-[![6](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/6.png)]
+[1](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/1.png)
+[2](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/2.png)
+[3](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/3.png)
+[4](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/4.png)
+[5](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/5.png)
+[6](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/6.png)
