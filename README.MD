@@ -9,6 +9,8 @@ The following options are supported:
 •	Change colours of Giant Wheel, Columbus ship and Roller Coaster.
 •	Change background of SkyBox.
 
+See the [YouTube video](https://www.youtube.com/watch?v=7_Z5359IEVU) for a walkthrough.
+
 ##Screenshots:
 ![1](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/1.png)
 ![2](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/2.png)
